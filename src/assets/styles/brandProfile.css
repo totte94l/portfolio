@@ -1,0 +1,51 @@
+/*
+    Primary font colors 
+*/
+
+.font_primary_color {
+    color: #1f4068;
+}
+
+.font_primary_color_darker {
+    color: #162447;
+}
+
+.font_primary_color_darkest {
+    color: #1b1b2f;
+}
+
+.font_secondary_color {
+    color: #e43f5a;
+}
+
+.font_white {
+    color: rgb(255, 255, 255);
+}
+
+/*
+    Primary colors BG
+*/
+
+.bg_primary_color {
+    background: #1f4068;
+}
+
+.bg_primary_color_80 {
+    background: rgb(31, 64, 104, .5);
+}
+
+.bg_primary_color_darker {
+    background: #162447;
+}
+
+.bg_primary_color_darkest {
+    background: #1b1b2f;
+}
+
+.bg_secondary_color {
+    background: #e43f5a;
+}
+
+.bg_secondary_color_20 {
+    background: rgb(228, 63, 90, 1);
+}
